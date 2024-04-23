@@ -1,1 +1,2 @@
 # Project
+Customer segmentation project -In this project, I applied unsupervised learning techniques to segment customers based on their behavior and characteristics. The goal was to gain insights into distinct customer groups and develop targeted strategies for each segment. Project Overview Objective: To segment customers into meaningful groups for personalized marketing strategies. Techniques Used: Utilized K-means clustering algorithm for customer segmentation. Outcome: Identified three distinct customer segments based on their purchasing behavior and demographics.
